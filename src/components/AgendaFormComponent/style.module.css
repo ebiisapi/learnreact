@@ -1,0 +1,19 @@
+.form-container {
+    /* absolute unit */
+    /* margin: 2px; */
+
+    /* relative unit
+    em: relatif terhadap font size dari element html tsb
+    fontsize component: 12pt
+    margin: 2em; => 12 * 2 pt
+    */
+    margin: 2em;
+    padding: 1.5em;
+    border: 1px solid black;
+    border-radius: 5px;
+
+}
+
+.formlabel{
+    font-weight: bold;
+}
